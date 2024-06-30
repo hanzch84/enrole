@@ -1,3 +1,4 @@
 openai~=0.28.0
 gradio~=4.37.2
 python-dotenv~=1.0.1
+gtts
